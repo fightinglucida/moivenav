@@ -1,4 +1,4 @@
-baseURL = 'https://mv.linnav.com/'
+baseURL = 'https://moivenav.pages.dev/'
 languageCode = 'zh-CN'
 title = '林书影视娱乐导航'
 theme = 'navside'
